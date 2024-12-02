@@ -20,4 +20,8 @@ https://openweathermap.org/current
 * `styled-components`
 * `tailwind css`
 
+### Setup
+* `npm install`
+* `npm start`
+
 
